@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amirhossien heydarpoor
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me amirhossienheydarpoor@gmail.com
 
 <!---
