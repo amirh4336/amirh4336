@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amirhossien heydarpoor
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning how to optimize systems
 - 📫 How to reach me amirhossienheydarpoor@gmail.com
 
 <!---
