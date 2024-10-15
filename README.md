@@ -1,7 +1,11 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm  Amir Hossein Heydarpoor!
+
 🧑‍💻 21-year-old Software Engineering student with 2 years of front-end development experience.
+
 💡 Passionate about building clean, optimized, and efficient web applications.
+
 🚀 Skilled in React, TypeScript, and Next.js.
+
 🔧 Always striving to improve and deliver high-quality code.
 
 Let's build something great together!
